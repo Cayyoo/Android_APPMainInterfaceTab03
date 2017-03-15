@@ -4,6 +4,8 @@
 /**
  * App主界面Tab实现方法：ViewPager+FragmentPagerAdapter实现Tab (界面可以滑动)
  *
+ * 推荐使用此方法
+ *
  * 注意：这里使用v4包
  */
 ```
